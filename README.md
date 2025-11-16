@@ -105,7 +105,10 @@ Ideal for validation and sales tracking.
 
 ---
 
-## 🖼 Dashboard Screenshot
+## 🖼 Dashboard Preview
+
+![Dashboard Screenshot](screenshots/dashboard.png)
+
 
 ```
 sales-order-performance-dashboard/
